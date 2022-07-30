@@ -1,3 +1,5 @@
+//Utilizando o pop para retirar o último número da array notas e recalcular a média
+
 const notas = [10 ,7 ,8, 5, 10]
 notas.pop()
 console.log(notas)
